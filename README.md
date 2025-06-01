@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning c, web dev MERN stack and linux
 - 💞️ I’m looking to collaborate on anything interesting and useful
-- 📫 How to reach me rajeevnegi005@gmail.com
+- 📫 How to reach me personal : rajeevnegi005@gmail.com  work : debugyourlife@outlook.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i'm alive (for now)
 
