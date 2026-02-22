@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything interesting and useful
 - 📫 How to reach me personal : rajeevnegi005@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: i'm alive (for now)
+- ⚡ Fun fact: i'm alive
 
 <!---
 Rajx05/Rajx05 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
