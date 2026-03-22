@@ -1,11 +1,9 @@
 # Updated Skills
 
-- Frontend development with Reactjs 
-- Tailwind CSS 
-- Shadcn UI 
-- Motion Framer 
+Frontend development using :-
+
+- React
+- Tailwind
+- Motion 
 - Vercel 
 - Supabase 
-- OOPS in C++ 
-- Java 
-- MySQL
