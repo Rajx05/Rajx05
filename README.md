@@ -21,17 +21,18 @@ I’m a web developer passionate about building polished user interfaces and opt
 
 ---
 
-### 🔭 What I’m Working On
+### 🔭 What I have built
 
-* **Portfolio Project:** Building a high-performance personal site with Vite and React.
-* **AI Integration:** Exploring how to use Gemini and Grok APIs to build smarter web apps.
+* **E-commerce Website:** Responsive & polished UI with user login and signup using supabase api.
+* **Portfolio :** A high-performance personal site with Vite and React.
+* **AI Agents:** Made efficient personal AI assistants using google adk and gemini.
 
 ---
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[Rajx05]&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[Rajx05]&layout=compact&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Rajx05&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rajx05&layout=compact&theme=tokyonight)
 
 ---
 
